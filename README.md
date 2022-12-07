@@ -8,9 +8,9 @@
  * Contact
 
  ## Description
-   Photo Gallery created using HTML, CSS and JavaScript files. The most important features:
+   Photo Gallery created using HTML, CSS and JavaScript files. The important features:
    - Responsive layout for any device
-   - Image captions
+   - Build a gallery of photos 
    
 ## Technologies Used
 **HTML**
