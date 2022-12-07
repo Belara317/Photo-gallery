@@ -1,8 +1,8 @@
 # PHOTO GALLERY
  
  ## Table Of Contents
- * Description
- * Technologies
+ * [Description](## Description)
+ * [Technologies](## Technologies Used)
  * Installation
  * Author
  * Contact
@@ -13,9 +13,9 @@
    - Build a gallery of photos 
    
 ## Technologies Used
-**HTML**
-**CSS**
-**JavaScript**
+**HTML**<br>
+**CSS**<br>
+**JavaScript**<br>
 **Lightbox**
 
 ## Installation
@@ -33,6 +33,6 @@ Steps:
 Belara Hossain Mohammad
 
 ## Contact
-Github: [Belara317](https://github.com/Belara317)
-Email: [belara317@gmail.com]
-LinkedIn: [belarahossainM](https://www.linkedin.com/in/belarahossainmohammad)
+* Github: [Belara317](https://github.com/Belara317)
+* Email: [belara317@gmail.com]
+* LinkedIn: [belarahossainM](https://www.linkedin.com/in/belarahossainmohammad)
