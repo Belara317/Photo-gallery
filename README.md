@@ -2,10 +2,10 @@
  
  ## Table Of Contents
  * [Description](#Description)
- * Technologies
- * Installation
- * Author
- * Contact
+ * [Technologies](#Technologies-Used)
+ * [Installation](#Installation)
+ * [Author](#Author)
+ * [Contact](#Contact)
 
  ## Description
    Photo Gallery created using HTML, CSS and JavaScript files. The important features:
