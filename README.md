@@ -1,11 +1,11 @@
 # PHOTO GALLERY
  
  ## Table Of Contents
- * Description
- * Technologies
- * Installation
- * Author
- * Contact
+ * [Description](#Description)
+ * [Technologies](#Technologies-Used)
+ * [Installation](#Installation)
+ * [Author](#Author)
+ * [Contact](#Contact)
 
  ## Description
    Photo Gallery created using HTML, CSS and JavaScript files. The important features:
@@ -27,7 +27,7 @@ Steps:
 4. Create all the files in the vscode
 5. Download the lightbox and extract the files needed for the project
 6. Add all the changes and commit them to the main branch
-7. Finally push the commit the github repository  
+7. Finally push the commit to the github repository  
 
 ## Author
 Belara Hossain Mohammad
