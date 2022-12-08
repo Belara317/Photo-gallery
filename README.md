@@ -34,5 +34,4 @@ Belara Hossain Mohammad
 
 ## Contact
 * Github: [Belara317](https://github.com/Belara317)
-* Email: [belara317@gmail.com]
 * LinkedIn: [belarahossainM](https://www.linkedin.com/in/belarahossainmohammad)
