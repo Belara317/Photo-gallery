@@ -1,7 +1,7 @@
 # PHOTO GALLERY
  
  ## Table Of Contents
- * Description
+ * [Description](#Description)
  * Technologies
  * Installation
  * Author
